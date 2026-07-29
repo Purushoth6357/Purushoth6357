@@ -14,7 +14,7 @@
 
 * **Languages:** C, C++, Python,  Verilog HDL
 * **Hardware:** FPGA (Intel/Altera Cyclone II)
-* **Software:** Quartus Prime, ModelSim, VS Code, Git, Linux
+* **Software:** Quartus II, ModelSim, VS Code, Git, Linux
 
 
 ## 📂 Current Focus
